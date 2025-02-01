@@ -1,1 +1,1 @@
-HR Analytics End to End Project with using Tableau 
+Tableau End to End Project for HR Analytics 
